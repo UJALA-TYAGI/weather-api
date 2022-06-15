@@ -29,7 +29,7 @@ $(document).ready(function() {
                     }
                 });
                 var myDate = new Date(data.dt * 1000);
-                $('#dateTime').html(myDate.toUTCString() + "<br>" + myDate.toLocaleString());
+                $('#dateTime').html(myDate.toUTCString() + "<br>" + myDate.toLocaleString("en-IN"));
             });
         });
     } else {
