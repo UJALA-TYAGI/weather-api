@@ -5,6 +5,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.container-fluid{
+padding: 50px 0 0 50px; 
+}
+
 .weather-card {
     height: 100%;
     width: 100%;
