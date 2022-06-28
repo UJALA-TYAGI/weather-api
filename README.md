@@ -1,2 +1,2 @@
 # weather-api
-Check the weather here.
+Check the weather [here](https://ujala-tyagi.github.io/weather-api/).
